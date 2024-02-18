@@ -90,79 +90,23 @@
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  height: auto;
+  height: 5vh;
   border: 2px;
   border-color: #00003D;
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-  box-shadow: inset 0.5em 0.5em 0.5em 0
-	         rgba(255,255,255,0.5), 
-	         inset -0.3em -0.3em 0.3em 0 
-	         rgba(102,102,102,1.00);
-}
-
-
-.button2 {
-  position: relative;
-  margin-bottom: 3vh;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%; 
-  height: auto;
-  border: 2px;
-  border-color: #00003D;
-  border-style: solid;
-  border-radius: 25px;
-  background-color: #FFFFFF;
-  box-shadow: inset 0.5em 0.5em 0.5em 0
-	         rgba(255,255,255,0.5), 
-	         inset -0.3em -0.3em 0.3em 0 
-	         rgba(102,102,102,1.00);
-}
-
-
-
-
-.button3 {
-  position: relative;
-  margin-bottom: 3vh;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-  height: auto;
-  border: 2px;
-  border-color: #00003D;
-  border-style: solid;
-  border-radius: 25px;
-  background-color: #FFFFFF;
-  box-shadow: inset 0.5em 0.5em 0.5em 0
-	         rgba(255,255,255,0.5), 
-	         inset -0.3em -0.3em 0.3em 0 
-	         rgba(102,102,102,1.00);
-}
-
-
-
-.textInButton1_1 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: rgba(255,255,255,00);
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
   background-image: url("images/achtergrond buton 1-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton1_1Expand {
-  margin-left: 15%;
-  width: 89%;
+.button1text {
+  width: 90%;
   height: 40vh;
   font-size: 15px;
   font-weight: 500;
@@ -170,316 +114,422 @@
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton1_2 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button2 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 1-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton1_2Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button2text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton1_3 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button3 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 1-3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton1_3Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button3text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
 
-
-
-.textInButton2_1 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button4 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 2-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton2_1Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button4text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton2_2 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button5 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 2-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton2_2Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button5text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton2_3 {
-   width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button6 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 2-3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton2_3Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button6text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
 
-.textInButton3_1 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button7 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 3-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton3_1Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button7text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton3_2 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button8 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 3-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton3_2Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button8text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton3_3 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button9 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 3-3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton3_3Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button9text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
 
-.textInButton4_1 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button10 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 4-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton4_1Expand {
-  margin-left: 15%;
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button10text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton4_2 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button11 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
-   background-image: url("images/achtergrond buton 4-2.png");
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+  background-image: url("images/achtergrond buton 4-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton4_2Expand {
- 
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button11text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
-
-.textInButton4_3 {
-  width: 97%;
-  height: 4.5vh;
-  font-size: 35px;
-  font-weight: 500;
-  overflow: hidden;
-  color: #F30004;
+.button12 {
+  position: relative;
+  margin-bottom: 3vh;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  width: 90%;
+  height: 5vh;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
   background-image: url("images/achtergrond buton 4-3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: inset 0em 0em 0.5em 0
+	         rgba(255,255,255,0.5), 
+	         inset -0em -0em 0em 0 
+	         rgba(102,102,102,1.00);
 }
-
-.textInButton4_3Expand {
-  
-  width: 85%;
-  height: auto;
-  font-size: 18px;
+.button12text {
+  width: 90%;
+  height: 40vh;
+  font-size: 15px;
   font-weight: 500;
   overflow: hidden;
   color: #010063;
   margin-left: auto;
   margin-right: auto;
+  border: 2px;
+  border-color: #00003D;
+  border-style: solid;
+  border-radius: 25px;
+  background-color: #FFFFFF;
+	 margin-bottom: 3vh;
 }
 
 
@@ -497,7 +547,7 @@ background-color: rgba(0,5,255,0.59);
 }
 .Vinbutton1_1high1 {
   position: absolute;
-  bottom: 446px;
+  bottom: 55vh;
   width: 95%;
   height: 6px;
   text-align: center;
@@ -508,7 +558,7 @@ background-color: rgba(0,5,255,0.59);
 }
 .Vinbutton1_1high2{
  position: absolute;
-  bottom: 325px;
+  bottom: 57vh;
   width: 95%;
   height: 6px;
   text-align: center;
@@ -517,17 +567,7 @@ background-color: rgba(0,5,255,0.59);
 
 	background-color: rgba(0,5,255,0.59);
 }
-.Vinbutton1_1wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 25vh;
-  height: 30vh;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
-	background-color: rgba(0,5,255,0.59);
-}
+
 .Vinbutton1_2 {
   position: absolute;
   bottom: 13vh;
@@ -537,11 +577,11 @@ background-color: rgba(0,5,255,0.59);
   font-size: 28px;
   font-weight: 500;
  
-	background-color: rgba(0,5,255,0.59);
+	background-color: rgba(255,0,0,0.59);
 }
 .Vinbutton1_2high1 {
   position: absolute;
-  bottom: 270px;
+  bottom: 47vh;
   width: 95%;
   height: 6px;
   text-align: center;
@@ -550,17 +590,7 @@ background-color: rgba(0,5,255,0.59);
 
 	background-color: rgba(0,5,255,0.59);
 }
-.Vinbutton1_2wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 140px;
-  height: 245px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
-	background-color: rgba(0,5,255,0.59);
-}
+
 .Vinbutton1_3 {
   position: absolute;
   bottom: 5vh;
@@ -572,18 +602,7 @@ background-color: rgba(0,5,255,0.59);
 
 	background-color: rgba(0,5,255,0.59);
 }
-.Vinbutton1_3wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 90px;
-  height: 135px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
- 
-	background-color: rgba(0,5,255,0.59);
-}
+
 .Vinbutton2_1 {
   position: absolute;
   bottom: 145px;
@@ -615,17 +634,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
 
 }
-.Vinbutton2_1wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 200px;
-  height: 275px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
- 
-}
+
 .Vinbutton2_2 {
   position: absolute;
   bottom: 90px;
@@ -646,17 +655,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
  
 }
-.Vinbutton2_2wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 140px;
-  height: 80px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
-  
-}
+
 .Vinbutton2_3 {
   position: absolute;
   bottom: 35px;
@@ -667,17 +666,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
 
 }
-.Vinbutton2_3wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 90px;
-  height: 100px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
 
-}
 .Vinbutton3_1 {
   position: absolute;
   bottom: 145px;
@@ -710,17 +699,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
   
 }
-.Vinbutton3_1wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 190px;
-  height: 180px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
- 
-}
+
 	
 .Vinbutton3_2 {
   position: absolute;
@@ -742,17 +721,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
  
 }
-.Vinbutton3_2wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 140px;
-  height: 130px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
 
-}
 
 .Vinbutton3_3 {
   position: absolute;
@@ -764,17 +733,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
   
 }
-.Vinbutton3_3wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 90px;
-  height: 55px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
 
-}
 
 .Vinbutton4_1 {
   position: absolute;
@@ -808,17 +767,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
  
 }
-.Vinbutton4_1wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 190px;
-  height: 220px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
 
-}
 	
 .Vinbutton4_2 {
   position: absolute;
@@ -840,17 +789,7 @@ background-color: rgba(0,5,255,0.59);
   font-weight: 500;
  
 }
-.Vinbutton4_2wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 140px;
-  height: 310px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
- 
-}
+
 .Vinbutton4_3 {
   position: absolute;
   bottom: 35px;
@@ -860,18 +799,6 @@ background-color: rgba(0,5,255,0.59);
   font-size: 28px;
   font-weight: 500;
  
-}
-.Vinbutton4_3wide {
-  position: absolute;
-  margin-left: 15%;
-  width: 65%;
-  bottom: 90px;
-  height: 250px;
-  text-align: center;
-  font-size: 28px;
-  font-weight: 500;
- 
-
 }
 
 
