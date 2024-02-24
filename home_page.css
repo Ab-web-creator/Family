@@ -107,7 +107,7 @@
 }
 .button1text {
   width: 90%;
-  height: 40vh;
+  height: 43vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -119,7 +119,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button1.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button2 {
   position: relative;
@@ -144,7 +148,7 @@
 }
 .button2text {
   width: 90%;
-  height: 40vh;
+  height: 38vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -156,7 +160,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button2.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button3 {
   position: relative;
@@ -180,8 +188,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button3text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 24vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -193,7 +201,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button3.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 
 .button4 {
@@ -218,8 +230,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button4text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 45vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -231,7 +243,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button4.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button5 {
   position: relative;
@@ -255,8 +271,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button5text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 18vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -268,7 +284,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button5.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button6 {
   position: relative;
@@ -292,8 +312,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button6text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 40.3vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -305,7 +325,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button6.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 
 .button7 {
@@ -330,8 +354,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button7text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 22.8vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -343,7 +367,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button7.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button8 {
   position: relative;
@@ -367,8 +395,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button8text {
-  width: 90%;
-  height: 40vh;
+ width: 90%;
+  height: 22.6vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -380,7 +408,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button8.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button9 {
   position: relative;
@@ -404,8 +436,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button9text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 11.7vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -417,7 +449,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button9.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 
 .button10 {
@@ -442,8 +478,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button10text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 33.4vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -455,7 +491,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button10.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button11 {
   position: relative;
@@ -479,8 +519,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button11text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 45.2vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -492,7 +532,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button11.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 .button12 {
   position: relative;
@@ -516,8 +560,8 @@
 	         rgba(102,102,102,1.00);
 }
 .button12text {
-  width: 90%;
-  height: 40vh;
+width: 90%;
+  height: 39.4vh;
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
@@ -529,7 +573,11 @@
   border-style: solid;
   border-radius: 25px;
   background-color: #FFFFFF;
-	 margin-bottom: 3vh;
+  margin-bottom: 3vh;
+  background-image: url("images/button12.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+ background-size: contain
 }
 
 
@@ -543,29 +591,27 @@
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-background-color: rgba(0,5,255,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton1_1high1 {
   position: absolute;
-  bottom: 55vh;
+  bottom: 54vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
-	background-color: rgba(0,5,255,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton1_1high2{
  position: absolute;
-  bottom: 57vh;
+  bottom: 40vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
-	background-color: rgba(0,5,255,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 
 .Vinbutton1_2 {
@@ -576,19 +622,17 @@ background-color: rgba(0,5,255,0.59);
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
-	background-color: rgba(255,0,0,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton1_2high1 {
   position: absolute;
-  bottom: 47vh;
+  bottom: 32vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
-	background-color: rgba(0,5,255,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 
 .Vinbutton1_3 {
@@ -599,206 +643,204 @@ background-color: rgba(0,5,255,0.59);
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
-	background-color: rgba(0,5,255,0.59);
+	 background-color: rgba(137,0,255,0.66);
 }
 
 .Vinbutton2_1 {
   position: absolute;
-  bottom: 145px;
+  bottom: 21vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
+	 background-color: rgba(137,0,255,0.66);
  
-	background-color: rgba(0,5,255,0.59);
 }
 .Vinbutton2_1high1 {
   position: absolute;
-  bottom: 275px;
+  bottom: 34vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+	 background-color: rgba(0,243,255,0.66);
 }
 .Vinbutton2_1high2{
  position: absolute;
-  bottom: 300px;
+  bottom: 56vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
-  font-weight: 500;
-
+  font-weight: 500; 
+	 background-color: rgba(255,0,0,0.66);
 }
 
 .Vinbutton2_2 {
   position: absolute;
-  bottom: 90px;
+  bottom: 13vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-  
+	 background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton2_2high1 {
   position: absolute;
-  bottom: 242px;
+  bottom: 48vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+	 background-color: rgba(0,13,255,0.66);
 }
 
 .Vinbutton2_3 {
   position: absolute;
-  bottom: 35px;
+  bottom: 5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
+	 background-color: rgba(137,0,255,0.66);
 }
 
 .Vinbutton3_1 {
   position: absolute;
-  bottom: 145px;
+  bottom: 21vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
-
+ background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton3_1high1 {
   position: absolute;
-  bottom: 323px;
+  bottom: 38.5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+ background-color: rgba(137,0,255,0.66);
 }
 
 .Vinbutton3_1high2{
  position: absolute;
-  bottom: 250px;
+  bottom: 27.5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-  
+ background-color: rgba(137,0,255,0.66);
 }
 
 	
 .Vinbutton3_2 {
   position: absolute;
-  bottom: 90px;
+  bottom: 13vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-  
+ background-color: rgba(137,0,255,0.66);
 }
 .Vinbutton3_2high1 {
   position: absolute;
-  bottom: 193px;
+  bottom: 19.5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+  background-color: rgba(255,0,0,0.66);
 }
 
 
 .Vinbutton3_3 {
   position: absolute;
-  bottom: 35px;
+  bottom: 5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-  
+  background-color: rgba(137,0,255,0.66);
 }
 
 
 .Vinbutton4_1 {
   position: absolute;
-  bottom: 145px;
+  bottom: 21vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-
+background-color: rgba(255,0,0,0.66);
 
 }
 .Vinbutton4_1high1 {
   position: absolute;
-  bottom: 513px;
+  bottom: 61.5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
-  
+  background-color: rgba(255,221,0,0.66);
 }
 
 .Vinbutton4_1high2{
  position: absolute;
-  bottom: 443px;
+  bottom: 55vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+ background-color: rgba(113,255,0,0.66);
 }
 
 	
 .Vinbutton4_2 {
   position: absolute;
-  bottom: 90px;
+  bottom: 13vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+ background-color: rgba(0,255,92,0.66);
 }
 .Vinbutton4_2high1 {
   position: absolute;
-  bottom: 388px;
+  bottom: 47.5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+ background-color: rgba(0,255,251,0.66);
 }
 
 .Vinbutton4_3 {
   position: absolute;
-  bottom: 35px;
+  bottom: 5vh;
   width: 95%;
   height: 6px;
   text-align: center;
   font-size: 28px;
   font-weight: 500;
- 
+ background-color: rgba(137,0,255,0.66);
 }
 
 
@@ -983,7 +1025,7 @@ section.page {
 }
 
 #page-1 {
-  background-image: url(images/mainpage_1_mobile.jpg);
+  background-image: url(images/mainpage_1_mobile01.jpg);
   background-size:cover;
   background-position: center; 
 
