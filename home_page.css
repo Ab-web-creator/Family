@@ -107,7 +107,9 @@
 }
 .button1text {
   width: 90%;
-  height: 43vh;
+	
+  height: 39vh;
+	
   font-size: 15px;
   font-weight: 500;
   overflow: hidden;
