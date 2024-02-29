@@ -63,31 +63,10 @@ aside {
 
 aside.active {
   right: 0px;
-  /* animation: topSideMenu ease-in-out 1s; */
+  
 }
 
-/* 
 
-@keyframes topSideMenu {
-  0% {
-      transform: translateX(30px);
-      opacity: 0;
-  }
-   
-  40% {
-      transform: translateX(30px);
-      opacity: 0;
-  }
-  70% {
-      transform: translateX(0px);
-      opacity: 0.5;
-  }
-   
-  100% {
-      transform: translateX(0px);
-      opacity: 1;
-  }
-} */
 
 aside.notactive {
   right: -185px;

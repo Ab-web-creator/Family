@@ -338,6 +338,11 @@ if (scrolledHeight > page1.scrollHeight * 2.5 &&
   }});
 
 
+
+
+
+
+
 const Vinbutton1_1 = document.querySelector('.Vinbutton1_1');
 Vinbutton1_1.classList.add("Vinbutton1_1");
 Vinbutton1_1.addEventListener('click', function () 
@@ -351,8 +356,24 @@ Vinbutton1_1.addEventListener('click', function ()
          button1text.style.display = '';
          button2text.style.display = 'none';
          button3text.style.display = 'none';
-		
-        }
+		 Vinbutton1_1.className = "Vinbutton1_1info";
+		   }
+	
+	
+else if (Vinbutton1_1.classList.contains("Vinbutton1_1info")) {
+	 window.location.href = "html_pages/opbouw.html";
+	}
+else if (Vinbutton1_1.classList.contains("Vinbutton2_1info")) {
+	 window.location.href = "html_pages/simulator.html";
+	}
+else if (Vinbutton1_1.classList.contains("Vinbutton3_1info")) {
+	 window.location.href = "html_pages/boeken.html";
+	}
+else if (Vinbutton1_1.classList.contains("Vinbutton4_1info")) {
+	 window.location.href = "html_pages/impact.html";
+	}	
+	
+	
 else if (Vinbutton1_1.classList.contains("Vinbutton1_1high1") || Vinbutton1_1.classList.contains("Vinbutton1_1high2")) {
 	   	
 	     button1.style.display = 'none';
@@ -363,8 +384,10 @@ else if (Vinbutton1_1.classList.contains("Vinbutton1_1high1") || Vinbutton1_1.cl
          button2text.style.display = 'none';
          button3text.style.display = 'none';
 	     
-		Vinbutton1_1.className = "Vinbutton1_1";
+        Vinbutton1_1.className = "Vinbutton1_1info";
 	    Vinbutton1_2.className = "Vinbutton1_2";
+        Vinbutton1_3.className = "Vinbutton1_3";
+	
 }
 else if (Vinbutton1_1.classList.contains("Vinbutton2_1")) {
 	 	
@@ -375,6 +398,12 @@ else if (Vinbutton1_1.classList.contains("Vinbutton2_1")) {
          button4text.style.display = '';
          button5text.style.display = 'none';
          button6text.style.display = 'none';
+	
+		     
+        Vinbutton1_1.className = "Vinbutton2_1info";
+	    Vinbutton1_2.className = "Vinbutton2_2";
+        Vinbutton1_3.className = "Vinbutton2_3";
+	
 	}
 	
 else if (Vinbutton1_1.classList.contains("Vinbutton2_1high1"))
@@ -387,8 +416,10 @@ else if (Vinbutton1_1.classList.contains("Vinbutton2_1high1"))
          button5text.style.display = 'none';
          button6text.style.display = 'none';
 			
-        Vinbutton1_1.className = "Vinbutton2_1";
+		     
+        Vinbutton1_1.className = "Vinbutton2_1info";
 	    Vinbutton1_2.className = "Vinbutton2_2";
+        Vinbutton1_3.className = "Vinbutton2_3";
 }	 
 else if (Vinbutton1_1.classList.contains("Vinbutton2_1high2")){
 		
@@ -399,9 +430,10 @@ else if (Vinbutton1_1.classList.contains("Vinbutton2_1high2")){
          button4text.style.display = '';
          button5text.style.display = 'none';
          button6text.style.display = 'none';
-	
-		 Vinbutton1_1.className = "Vinbutton2_1";
-	     Vinbutton1_2.className = "Vinbutton2_2";
+		     
+        Vinbutton1_1.className = "Vinbutton2_1info";
+	    Vinbutton1_2.className = "Vinbutton2_2";
+        Vinbutton1_3.className = "Vinbutton2_3";
 	}
 else if (Vinbutton1_1.classList.contains("Vinbutton3_1")) {
 	
@@ -412,6 +444,10 @@ else if (Vinbutton1_1.classList.contains("Vinbutton3_1")) {
          button7text.style.display = '';
          button8text.style.display = 'none';
          button9text.style.display = 'none';
+	
+        Vinbutton1_1.className = "Vinbutton3_1info";
+	    Vinbutton1_2.className = "Vinbutton3_2";
+        Vinbutton1_3.className = "Vinbutton3_3";
 	
 }
 	
@@ -425,8 +461,9 @@ else if (Vinbutton1_1.classList.contains("Vinbutton3_1high1") || Vinbutton1_1.cl
          button8text.style.display = 'none';
          button9text.style.display = 'none';
 	     
-		Vinbutton1_1.className = "Vinbutton3_1";
+        Vinbutton1_1.className = "Vinbutton3_1info";
 	    Vinbutton1_2.className = "Vinbutton3_2";
+        Vinbutton1_3.className = "Vinbutton3_3";
 } 
 
 else if (Vinbutton1_1.classList.contains("Vinbutton4_1")) {
@@ -438,6 +475,10 @@ else if (Vinbutton1_1.classList.contains("Vinbutton4_1")) {
          button10text.style.display = '';
          button11text.style.display = 'none';
          button12text.style.display = 'none';
+	
+        Vinbutton1_1.className = "Vinbutton4_1info";
+        Vinbutton1_2.className = "Vinbutton4_2";
+        Vinbutton1_3.className = "Vinbutton4_3";
 		
         }
 else if (Vinbutton1_1.classList.contains("Vinbutton4_1high1") || Vinbutton1_1.classList.contains("Vinbutton4_1high2")) {
@@ -450,8 +491,9 @@ else if (Vinbutton1_1.classList.contains("Vinbutton4_1high1") || Vinbutton1_1.cl
          button11text.style.display = 'none';
          button12text.style.display = 'none';
 	     
-		Vinbutton1_1.className = "Vinbutton4_1";
-	    Vinbutton1_2.className = "Vinbutton4_2";
+        Vinbutton1_1.className = "Vinbutton4_1info";
+        Vinbutton1_2.className = "Vinbutton4_2";
+        Vinbutton1_3.className = "Vinbutton4_3";
 }
 	
 });
@@ -472,10 +514,30 @@ Vinbutton1_2.addEventListener('click', function ()
          button3text.style.display = 'none';
 		
 		 Vinbutton1_1.className = "Vinbutton1_1high1";
-		 Vinbutton1_2.className = "Vinbutton1_2";
+		 Vinbutton1_2.className = "Vinbutton1_2info";
 		
 		
         }
+	
+	
+else if (Vinbutton1_2.classList.contains("Vinbutton1_2info")) {
+	 window.location.href = "html_pages/boeken.html";
+	}	
+	
+else if (Vinbutton1_2.classList.contains("Vinbutton2_2info")) {
+	 window.location.href = "html_pages/tarieven.html";
+	}
+
+else if (Vinbutton1_2.classList.contains("Vinbutton3_2info")) {
+	 window.location.href = "html_pages/versneller.html";
+	}
+	
+else if (Vinbutton1_2.classList.contains("Vinbutton4_2info")) {
+	 window.location.href = "https://justdiggit.org/nl/";
+	}
+	
+	
+	
 else if (Vinbutton1_2.classList.contains("Vinbutton1_2high1")) {
 		
 		 Vinbutton1_1.className = "Vinbutton1_1high1";
@@ -489,6 +551,8 @@ else if (Vinbutton1_2.classList.contains("Vinbutton1_2high1")) {
          button1text.style.display = 'none';
          button2text.style.display = '';
          button3text.style.display = 'none';
+         Vinbutton1_2.className = "Vinbutton1_2info";
+	
 		 }
 else if (Vinbutton1_2.classList.contains("Vinbutton2_2")) {
 		 
@@ -501,6 +565,8 @@ else if (Vinbutton1_2.classList.contains("Vinbutton2_2")) {
          button6text.style.display = 'none';
 	
 		 Vinbutton1_1.className = "Vinbutton2_1high1";
+         Vinbutton1_2.className = "Vinbutton2_2info";
+         Vinbutton1_3.className = "Vinbutton2_3";
 		 
 }
 else if (Vinbutton1_2.classList.contains("Vinbutton2_2high1")){
@@ -514,8 +580,8 @@ else if (Vinbutton1_2.classList.contains("Vinbutton2_2high1")){
          button6text.style.display = 'none';
 	
 		 Vinbutton1_1.className = "Vinbutton2_1high1";
-		 Vinbutton1_2.className = "Vinbutton2_2";
-	
+         Vinbutton1_2.className = "Vinbutton2_2info";
+         Vinbutton1_3.className = "Vinbutton2_3";
 }
 	
 	
@@ -530,13 +596,11 @@ else if (Vinbutton1_2.classList.contains("Vinbutton3_2")) {
          button9text.style.display = 'none';
 	
 		 Vinbutton1_1.className = "Vinbutton3_1high1";
+	     Vinbutton1_2.className = "Vinbutton3_2info";
+         Vinbutton1_3.className = "Vinbutton3_3";
 }
 	
 	else if (Vinbutton1_2.classList.contains("Vinbutton3_2high1")) {
-		
-		 Vinbutton1_1.className = "Vinbutton3_1high1";
-	     Vinbutton1_2.className = "Vinbutton3_2";
-		 Vinbutton1_3.className = "Vinbutton3_3";
 	
 	     button7.style.display = '';
          button8.style.display = 'none';
@@ -545,6 +609,11 @@ else if (Vinbutton1_2.classList.contains("Vinbutton3_2")) {
          button7text.style.display = 'none';
          button8text.style.display = '';
          button9text.style.display = 'none';
+		
+         Vinbutton1_1.className = "Vinbutton3_1high1";
+	     Vinbutton1_2.className = "Vinbutton3_2info";
+         Vinbutton1_3.className = "Vinbutton3_3";
+		
 		 }
 else if (Vinbutton1_2.classList.contains("Vinbutton4_2")) {
 		 
@@ -557,6 +626,8 @@ else if (Vinbutton1_2.classList.contains("Vinbutton4_2")) {
          button12text.style.display = 'none';
 	
 		 Vinbutton1_1.className = "Vinbutton4_1high1";
+	     Vinbutton1_2.className = "Vinbutton4_2info";
+         Vinbutton1_3.className = "Vinbutton4_3";
 		 
 }
 else if (Vinbutton1_2.classList.contains("Vinbutton4_2high1")){
@@ -569,8 +640,9 @@ else if (Vinbutton1_2.classList.contains("Vinbutton4_2high1")){
          button11text.style.display = '';
          button12text.style.display = 'none';
 	
-	    Vinbutton1_1.className = "Vinbutton4_1high1";
-	    Vinbutton1_2.className = "Vinbutton4_2";
+		 Vinbutton1_1.className = "Vinbutton4_1high1";
+	     Vinbutton1_2.className = "Vinbutton4_2info";
+         Vinbutton1_3.className = "Vinbutton4_3";
 }
 	
 });
@@ -590,9 +662,27 @@ Vinbutton1_3.addEventListener('click', function ()
          button2text.style.display = 'none';
          button3text.style.display = '';
 		
+
 		 Vinbutton1_1.className = "Vinbutton1_1high2";
 		 Vinbutton1_2.className = "Vinbutton1_2high1";
+         Vinbutton1_3.className = "Vinbutton1_3info";
 	}
+	
+else if (Vinbutton1_3.classList.contains("Vinbutton1_3info")) {
+	 window.location.href = "html_pages/contact.html";
+	}	
+else if (Vinbutton1_3.classList.contains("Vinbutton2_3info")) {
+	 window.location.href = "html_pages/RIS.html";
+	}
+	
+else if (Vinbutton1_3.classList.contains("Vinbutton3_3info")) {
+	 window.location.href = "https://theorieboek.nl/";
+	}
+else if (Vinbutton1_3.classList.contains("Vinbutton4_3info")) {
+	 window.location.href = "https://justdiggit.org/nl/wat-we-doen";
+	}
+	
+	
 
 else if (Vinbutton1_3.classList.contains("Vinbutton2_3")) {
 	
@@ -606,6 +696,8 @@ else if (Vinbutton1_3.classList.contains("Vinbutton2_3")) {
 	
          Vinbutton1_1.className = "Vinbutton2_1high2";
 		 Vinbutton1_2.className = "Vinbutton2_2high1";
+
+         Vinbutton1_3.className = "Vinbutton2_3info";
 	
 }
 	
@@ -622,6 +714,7 @@ else if (Vinbutton1_3.classList.contains("Vinbutton3_3")) {
 			
          Vinbutton1_1.className = "Vinbutton3_1high2";
 		 Vinbutton1_2.className = "Vinbutton3_2high1";
+         Vinbutton1_3.className = "Vinbutton3_3info";
 }
 	
 else if (Vinbutton1_3.classList.contains("Vinbutton4_3")) {
@@ -637,6 +730,7 @@ else if (Vinbutton1_3.classList.contains("Vinbutton4_3")) {
 			
          Vinbutton1_1.className = "Vinbutton4_1high2";
 		 Vinbutton1_2.className = "Vinbutton4_2high1";
+	     Vinbutton1_3.className = "Vinbutton4_3info";
 }	
         });
 
